@@ -7,7 +7,7 @@
 Nerd³ Bot has been rebuilt from scratch, using [Liara by Pandentia](https://github.com/Thessia/Liara) as a base. This means all functions have been rewritten by DerpyChap and lolPants so they all play nicely with each other, and hopefully will mean new features can be added much more easily than before. Essentially, the code is less shit now. *(Remember, you can always do `!suggestion` followed by your suggestion for any feature requests.)*
 
 ### New Help Command
-The help command now looks somewhat presentable this time! It uses embeds to help lay out information much better than before, and features links to everything Nerd³ related.
+The help command now looks somewhat presentable this time! It uses embeds to help lay out information much better than before, and now features links to everything Nerd³ related. _Isn't that neat?!_
 
 `!help <command>` has also had a facelift with embeds.
 
@@ -17,7 +17,7 @@ Disclaimer: `!help` will not help with the following:
 * Your terrible cooking
 
 ### Channel Join and Leave
-Sadly the days of `!owo` are over (sorry, weebs). Due to internal reworking of how this command system worked, the new commands to join and leave channels is now `!join <channel>` and `!leave <channel>`  
+Sadly the days of `!owo` are over (sorry, weebs). Due to internal reworking of how this command system worked, the new commands to join and leave channels is now `!join <channel>` and `!leave <channel>`.  
 You can do `!join` with no arguments to see a list of all channels you can join.
 
 ### User Info Command
@@ -64,7 +64,7 @@ Same reason as Trivia. *(We're busy folks OK, your dumb commands can wait)*
 > Can I add Nerd³ Bot to my se-
 
 No.
-> You didn't even let me finish my question
+> You didn't even let me finish my question.
 
 Stop asking us this question please I beg of you.
 
