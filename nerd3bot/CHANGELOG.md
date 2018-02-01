@@ -72,6 +72,6 @@ Stop asking us this question please I beg of you.
 
 Fuck off.
 
-> Is there any way we can contribute to it?
+> Is there any way I can contribute to it?
 
 ~~Give us money.~~ Do `!suggestion`. We'll take care of the rest 😉.
