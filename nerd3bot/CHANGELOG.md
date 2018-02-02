@@ -3,7 +3,7 @@
 
 
 ## Changes
-### All new, custom code
+### All New, Custom Code
 Nerd³ Bot has been rebuilt from scratch, using [Liara by Pandentia](https://github.com/Thessia/Liara) as a base. This means all functions have been rewritten by DerpyChap and lolPants so they all play nicely with each other, and hopefully will mean new features can be added much more easily than before. Essentially, the code is less shit now. *(Remember, you can always do `!suggestion` followed by your suggestion for any feature requests.)*
 
 ### New Help Command
