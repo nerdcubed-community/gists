@@ -4,7 +4,7 @@
 
 ## Changes
 ### All New, Custom Code
-Nerd³ Bot has been rebuilt from scratch, using [Liara by Pandentia](https://github.com/Thessia/Liara) as a base. This means all functions have been rewritten by DerpyChap and lolPants so they all play nicely with each other, and hopefully will mean new features can be added much more easily than before. Essentially, the code is less shit now. *(Remember, you can always do `!suggestion` followed by your suggestion for any feature requests.)*
+Nerd³ Bot has been rebuilt from scratch, using [Liara by Pandentia](https://github.com/Thessia/Liara) as a base. This means all functions have been rewritten by DerpyChap and lolPants so they all play nicely with each other, and hopefully will mean new features can be added much more easily than before. Essentially, the code is less shit now. *(Remember, you can make a new issue on our [bot issue tracker](https://github.com/nerdcubed-community/n3bot-issues) for any feature requests.)*
 
 ### New Help Command
 The help command now looks somewhat presentable this time! It uses embeds to help lay out information much better than before, and now features links to everything Nerd³ related. _Isn't that neat?!_
@@ -74,4 +74,4 @@ Fuck off.
 
 > Is there any way I can contribute to it?
 
-~~We accept bribes.~~ Do `!suggestion`. We'll take care of the rest 😉.
+~~We accept bribes.~~ Make an issue on [our issue tracker](https://github.com/nerdcubed-community/n3bot-issues). We'll take care of the rest 😉.
