@@ -48,7 +48,9 @@ This doesn't work if you forget to do `!remindme`, we're not mind readers.
 ---
 ## Coming Soon™
 ### YouTube Alerts
-This has been broken in the old bot for ages now, but a fix is on it's way. We wanted to launch the rest of the bot first though. Hopefully the fix will come quicker than the new site .-.
+~~This has been broken in the old bot for ages now, but a fix is on it's way. We wanted to launch the rest of the bot first though. Hopefully the fix will come quicker than the new site .-.~~
+
+Hey, it only took us 6 months but YouTube Alerts should now work about as well as the Nerd³ website.
 
 ### Trivia
 Due to the complexity of the trivia game, we've had to delay it until the core features are done. Sorry lol ¯\\\_(ツ)\_/¯
